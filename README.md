@@ -31,7 +31,7 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/payroll-console-app.git
+   git clone https://github.com/Andres2295/CSProject.git
 Open the project in Visual Studio (or your preferred IDE).
 
 Build and run the application.
