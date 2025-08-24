@@ -31,7 +31,7 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Andres2295/CSProject.git
+   git clone https://github.com/Andres2295/CSProject_SimplePayroll.git
 Open the project in Visual Studio (or your preferred IDE).
 
 Build and run the application.
@@ -40,7 +40,8 @@ Build and run the application.
 
 ## 💻 Usage
 
-# *Note: Before starting the application make sure to create a text file named "staff.txt" with this data:
+> [!NOTE]
+> Before starting the application make sure to create a text file named "staff.txt" with this data:
 
 ---
 ```
@@ -49,7 +50,6 @@ Peter, Manager
 John, Admin
 Carol, Admin
 ```
----
 
 Save the text file inside the buid folder where the .exe is found, it should look something like this:
 
